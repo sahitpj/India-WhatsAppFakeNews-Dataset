@@ -1,4 +1,4 @@
-# India WhatsApp Deaths Dataset [![DOI](https://zenodo.org/badge/157810232.svg)](https://zenodo.org/badge/latestdoi/157810232)
+# India WhatsApp Fake News Dataset [![DOI](https://zenodo.org/badge/157810232.svg)](https://zenodo.org/badge/latestdoi/157810232)
 
 The following repository has News Articles scrapoped from the Times of India, from late 2017 to June 2018. The following dataet consists of over 1 million articles scrapped between this period. 
 
@@ -7,7 +7,7 @@ The folliwing data has been then checked for keywords relating to WhatsApp relat
 
 ### Details
 - The file `Data.csv` has the following files, with the date, place, and the keywirds mentioned. 
-- The `webscrapper` consists of a `scrapy` spider which can be used to extract files from the newsite
+- The `webscrapper` consists of a `scrapy` spider which can be used to extract files from the news site
 - The files `archivelist_finder.py` and `extract_csv_data.py` can be used for reference in the process
 
 
