@@ -1,4 +1,4 @@
-# India WhatsApp Deaths Dataset
+# India WhatsApp Deaths Dataset [![DOI](https://zenodo.org/badge/157810232.svg)](https://zenodo.org/badge/latestdoi/157810232)
 
 The following repository has News Articles scrapoped from the Times of India, from late 2017 to June 2018. The following dataet consists of over 1 million articles scrapped between this period. 
 
@@ -19,6 +19,8 @@ The following data was used by the BBC in order to help generate useful insights
 
 
  The complete file containing all articles in the form of `.txt` files can be found at the following link. https://drive.google.com/file/d/19IbOlTO18BAXYRQoVkWfQ6paad4v9sfB/view?usp=sharing
+ 
+https://zenodo.org/badge/latestdoi/157810232
 
 Please do cite this repository if you happen to use this dataset in your research. :smiley:
 
