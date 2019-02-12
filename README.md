@@ -10,7 +10,15 @@ The folliwing data has been then checked for keywords relating to WhatsApp relat
 - The `webscrapper` consists of a `scrapy` spider which can be used to extract files from the newsite
 - The files `archivelist_finder.py` and `extract_csv_data.py` can be used for reference in the process
 
-The following data was used by the BBC in order to help generate useful insights about the following. The complete file containing all articles in the form of `.txt` files can be found at the following link. https://drive.google.com/file/d/19IbOlTO18BAXYRQoVkWfQ6paad4v9sfB/view?usp=sharing
+
+### Labelling Data and Insights
+
+After textfiles were preprocessed, keywords were found in the following dataset, which were selected to find news articles which had a good probabilty of being articles about Fake News. These were then crosschecked to see if the stories did correspond to them. 
+
+The following data was used by the BBC in order to help generate useful insights about Fake News
+
+
+ The complete file containing all articles in the form of `.txt` files can be found at the following link. https://drive.google.com/file/d/19IbOlTO18BAXYRQoVkWfQ6paad4v9sfB/view?usp=sharing
 
 Please do cite this repository if you happen to use this dataset in your research. :smiley:
 
